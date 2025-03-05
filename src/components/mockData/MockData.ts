@@ -149,7 +149,7 @@ export const mockAccounts: Account[] = [
     },
     transaction_history: [
       {
-        dateTime: 'January 31, 2025',
+        dateTime: 'March 6, 2025',
         description: 'INCOMING FED WIRE DEPOSIT XXXXXX1426',
         status: 'Success',
         amount_usd: 309000.0
